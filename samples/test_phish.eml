@@ -1,0 +1,12 @@
+From: "PayPal Support" <support@paypa1-security.example>
+Reply-To: collector@mail-harvest.example
+Return-Path: <bounce@random-sender.example>
+To: user@example.com
+Subject: Urgent: Your account is suspended - verify immediately
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear customer, your account has been suspended. Verify your password immediately.</p>
+<a href="http://192.168.10.5/login@verify">https://www.paypal.com/signin</a>
+</body></html>
